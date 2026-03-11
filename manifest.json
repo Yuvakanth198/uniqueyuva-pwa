@@ -5,7 +5,19 @@
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0056b3",
-  "icons": [
+    "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW_N0O0_G0l_p_uE_O_J_v_N_v_N_v_N/s192/243794.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW_N0O0_G0l_p_uE_O_J_v_N_v_N_v_N/s512/243794.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis_5jL8S5h4Tf2G8P8C9X9Z9Q/s192/icon.png",
       "sizes": "192x192",
